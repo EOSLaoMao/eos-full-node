@@ -10,7 +10,7 @@
 * Create Wallet: `cleos wallet create`. Please save your wallet password in a security place. Please note: wallet will be auto locked by keosd after 15 minutes of inactivity. Use `cleos wallet unlock --password=[walletPassword]` to unlock it.
 ![](./images/00-createwallet.png)
 
-* Import key: `cleos import [privateKey]`
+* Import key: `cleos wallet import [privateKey]`
 ![](./images/01-importkey.png)
 
 * Get blockchain status: `cleos get info` 
