@@ -20,7 +20,8 @@
 
 * Get account info: `cleos get account [accountName]` to check your account info 
  
-* Voting: `cleos system voteproducer prods [bpName]`
+* Voting: `cleos system voteproducer prods [accountName] [bpNameList]`
+e.g:`cleos system voterproducer prods xxxxxx eoslaomacom eosbixinboot`
 
 * Check voting staus: `cleos get account [accountName] ` to check voting status
 ![](./images/03-votinginfo.png)
