@@ -16,7 +16,7 @@
 * Get blockchain status: `cleos get info` 
 ![](./images/02-getchaininfo.png)
 
-* Wait head block number reach the latest. https://explorer.eoseco.com/
+* Wait head block number reach the latest, check here https://explorer.eoseco.com/ or you can use others api-node endpoint. 
 
 * Get account info: `cleos get account [accountName]` to check your account info 
  
